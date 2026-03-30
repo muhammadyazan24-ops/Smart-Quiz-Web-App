@@ -57,6 +57,6 @@ The application allows you to take your study material offline with PDF generati
 I am passionate about building tools that make learning more accessible and efficient. If you’re interested in the full project source code, or want to collaborate, let's connect:
 
 - **Email:** [muhammad.yazan2004@gmail.com](mailto:muhammad.yazan2004@gmail.com)
-- **LinkedIn:** [Connect with me on LinkedIn](#) *([Insert exact LinkedIn URL here](https://www.linkedin.com/in/muhammad-yazan?utm_source=share_via&utm_content=profile&utm_medium=member_ios))*
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-yazan?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 Thank you for exploring my project!
