@@ -1,0 +1,70 @@
+.resultsContainer {
+  padding: 3rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.scoreCircle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 8px solid var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1.5rem auto;
+  box-shadow: 0 0 20px rgba(79, 70, 229, 0.4);
+}
+
+.scoreText {
+  text-align: center;
+}
+
+.percent {
+  display: block;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.fraction {
+  display: block;
+  font-size: 1rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+}
+
+.reviewSection {
+  margin-bottom: 2.5rem;
+  text-align: left;
+}
+
+.reviewItem {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-sm);
+}
+
+.reviewItem h5 {
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+}
+
+.correctAnswer {
+  color: var(--success);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.explanation {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}

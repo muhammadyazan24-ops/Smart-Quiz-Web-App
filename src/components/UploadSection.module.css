@@ -1,0 +1,29 @@
+.uploadZone {
+  padding: 3rem;
+  text-align: center;
+  border: 2px dashed rgba(255, 255, 255, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 2rem auto;
+  max-width: 600px;
+}
+
+.uploadZone:hover {
+  border-color: var(--primary);
+  background: rgba(30, 41, 59, 0.9);
+}
+
+.dragging {
+  border-color: var(--primary);
+  background: rgba(79, 70, 229, 0.1);
+  transform: scale(1.02);
+}
+
+.hiddenInput {
+  display: none;
+}
+
+.iconWrapper {
+  color: var(--primary);
+  margin-bottom: 1rem;
+}
